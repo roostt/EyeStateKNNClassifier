@@ -13,6 +13,7 @@ After downloading, you can run the program via the mainKNNClassifier.m file.
 
 If you use EyeStateKNNClassifier in your project, please cite the following paper.
 
+```
 @INPROCEEDINGS{8895170,
 author={C. M. {Yilmaz} and B. H. {Yilmaz} and C. {Kose}},
 booktitle={2019 Medical Technologies Congress (TIPTEKNO)},
@@ -25,3 +26,4 @@ keywords={eye state prediction;k-nearest-neighbour;braincomputer interface;EEG;d
 doi={10.1109/TIPTEKNO.2019.8895170},
 ISSN={2687-7775},
 month={Oct},}
+```
