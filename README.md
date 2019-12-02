@@ -11,5 +11,17 @@ Different distance metrics and number of neighbour parameters must be analysed a
 
 After downloading, you can run the program via the mainKNNClassifier.m file.
 
-If you use MultiResUNet in your project, please cite the following paper
+If you use EyeStateKNNClassifier in your project, please cite the following paper.
 
+@INPROCEEDINGS{8895170,
+author={C. M. {Yilmaz} and B. H. {Yilmaz} and C. {Kose}},
+booktitle={2019 Medical Technologies Congress (TIPTEKNO)},
+title={Prediction of Eye States using k-NN Algorithm: A Comparison Study for Different Distance Metrics and Number of Neighbour Parameters},
+year={2019},
+volume={},
+number={},
+pages={1-4},
+keywords={eye state prediction;k-nearest-neighbour;braincomputer interface;EEG;distance metric},
+doi={10.1109/TIPTEKNO.2019.8895170},
+ISSN={2687-7775},
+month={Oct},}
