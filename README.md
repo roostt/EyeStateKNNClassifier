@@ -11,7 +11,7 @@ Different distance metrics and number of neighbour parameters must be analysed a
 
 After downloading, you can run the program via the mainKNNClassifier.m file. All the results from every fold of the cross validation are stored in results_all variable. For example, results_all{1,2} stores the results of the second fold of the cross-validation. As you can see below, this variable contains classification accuracies of nine different distance metrics.
 
-If you use EyeStateKNNClassifier in your project, please cite the following paper.
+If you use EyeStateKNNClassifier in your project, please cite the following paper [https://ieeexplore.ieee.org/document/8895170].
 
 ```
 @INPROCEEDINGS{8895170,
