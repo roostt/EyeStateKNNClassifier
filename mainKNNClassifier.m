@@ -1,4 +1,4 @@
-clc; close all;
+clc; close all; clear all;
 
 %load training data to a variable named as t_data
 load('EEGEyeStateDataSet_Data.mat');
