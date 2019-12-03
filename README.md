@@ -9,7 +9,7 @@ Different distance metrics and number of neighbour parameters must be analysed a
 - Classification performances were evaluated for accuracy measurement using the ten-fold leave-one-out cross-validation technique and the optimum k value is searched in the range of 1 to 101.
 - Code has been tested on Matlab 2018b software package and the experiments were performed using Intel Core i7 3.4 GHz with 8 GB RAM.
 
-After downloading, you can run the program via the mainKNNClassifier.m file. All the results from every fold of the cross validation are stored in results_all variable. For example, results_all{1,2} stores the results of the second fold of the cross-validation. As you can see below, this variable contains classification accuracies of nine different distance metrics.
+After downloading, you can run the program via the mainKNNClassifier.m file. All the results from every fold of the cross validation are stored in results_all variable. For example, results_all{1,2} stores the results of the second fold of the cross-validation. This variable contains classification accuracies of nine different distance metrics.
 
 If you use EyeStateKNNClassifier in your project, please cite the following paper [https://ieeexplore.ieee.org/document/8895170].
 
